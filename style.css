@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding: 0;
+   font-size: 1.6rem;
+   font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.top{
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+.top:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.box{
+    border-radius: 40%;
+    margin-left: 13px;
+    padding: 18px;
+    display: flex;
+    font-size: 17px;
+    justify-content: space-between;
+}
+.blue{
+    background-color: rgb(50, 50, 116);
+    color: white;
+    height: 41px;
+    width: 41px;
+    border-radius: 12px;
+    font-size: 33px;
+    cursor: pointer;
+   
+}
+.notification {
+    display: flex;
+    /*background-color: #F5F9FC; - color to will be appear after js - function*/
+    padding: 18px;
+    color: rgb(82, 76, 76);
+    margin: 22px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.name{
+    font-weight: bold;
+    padding: 12px;
+    
+}
+.club{
+    color: hsl(228, 45%, 44%);
+}
+.time,.time1, .time2, .time3,.time4, .time5,.time6{
+ margin-top: 62px;
+}
+.time{
+ margin-left:-833px;
+ width: 93px;
+}
+.time1{
+    margin-left: -303px;
+}
+.time2{
+    margin-left:-640px;
+}
+.notification1{
+    display: flex;
+    padding: 18px;
+    color: rgb(82, 76, 76);
+    margin: 22px;   
+}
+.last{
+    background-color: white;
+}
+.message{
+    border: 1px solid gray;
+    margin:-26px 132px;
+    width: 82%;
+    padding-left: 72px;
+    height: 123px;
+    cursor: pointer;
+}
+.time3{
+    margin-left:-550px;
+}
+
+.time4{
+    margin-left:-512px;
+}
+.girl{
+    margin-left: 1580px;
+    margin-top: -110px;
+ 
+}
+.time5{
+    margin-left:-1134px;
+}
+.time6{
+    margin-left:-453px;
+}
+.notification2{
+    display: flex;
+    padding: 18px;
+    color: rgb(82, 76, 76);
+    margin: 22px;
+    border-radius: 12px;
+    height:110px;
+    
+}
+.users{
+    width: 120px;
+    height: 120px;
+    
+}
